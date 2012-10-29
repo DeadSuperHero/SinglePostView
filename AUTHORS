@@ -1,10 +1,10 @@
 Diaspora is written by:
   Daniel Grippi
   Maxwell Salzberg
+  Dennis Collinson
 
 
 With help from many libraries and frameworks including:
-  JQuery
+  Backbone.js
   Ruby on Rails
-  Blueprint-CSS
   and others
