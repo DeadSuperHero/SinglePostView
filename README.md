@@ -7,4 +7,4 @@ The Single Post View is an immersive way to display content, and was used to dis
 
 If you'd like to make improvements to make this more universally available to different apps, please submit a pull request!
 
-Authors: This software was created by Maxwell Salzberg and Daniel Grippi, and is licensed under the AGPL v 3.0.
+Authors: This software was created by Maxwell Salzberg, Dennis Collinson, and Daniel Grippi, and is licensed under the AGPL v 3.0.
